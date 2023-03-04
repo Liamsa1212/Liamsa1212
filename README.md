@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Horus project<br>🌱 I’m currently learning cyber security<br>⚡ Fun fact, I like to read books about science fiction
+🔭 I’m currently working on ![Horus](https://github.com/HorusRS/Horus) project<br>🌱 I’m currently learning cyber security<br>⚡ Fun fact, I like to read books about science fiction
 
 
 ## 🌐 Socials:
