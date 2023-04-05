@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on [Horus](https://github.com/HorusRS/Horus) project<br>🌱 I’m currently learning Cyber Security
+🔭 I’m currently working on [Horus](https://github.com/HorusRS/Horus) project<br>🌱 I’m currently learning Cyber Security<br>📫 Reach me via Liamsa47@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/liam-sapir-ab0404233) 
