@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working as security specialist <br>🌱 I’m currently learning Cyber Security<br>📫
+🔭 I’m currently working as security specialist <br>🌱 I’m currently learning Cyber Security<br>
 
 # 💻 Tech Stack:
 🧑‍💻 Languages
